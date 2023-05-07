@@ -1,0 +1,6 @@
+Torta { Color = white, Size = Large, Sugar = 90 }
+{
+  "Color": "white",
+  "Size": "Large",
+  "Sugar": 90
+}

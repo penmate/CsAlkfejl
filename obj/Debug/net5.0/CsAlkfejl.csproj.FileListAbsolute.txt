@@ -1,0 +1,16 @@
+C:\Users\pmate\projects\VisualStudioProjects\CsAlkfejl\CsAlkfejl\obj\Debug\net5.0\CsAlkfejl.csproj.AssemblyReference.cache
+C:\Users\pmate\projects\VisualStudioProjects\CsAlkfejl\CsAlkfejl\obj\Debug\net5.0\CsAlkfejl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmate\projects\VisualStudioProjects\CsAlkfejl\CsAlkfejl\obj\Debug\net5.0\CsAlkfejl.AssemblyInfoInputs.cache
+C:\Users\pmate\projects\VisualStudioProjects\CsAlkfejl\CsAlkfejl\obj\Debug\net5.0\CsAlkfejl.AssemblyInfo.cs
+C:\Users\pmate\projects\VisualStudioProjects\CsAlkfejl\CsAlkfejl\obj\Debug\net5.0\CsAlkfejl.csproj.CoreCompileInputs.cache
+C:\Users\pmate\projects\VisualStudioProjects\CsAlkfejl\CsAlkfejl\bin\Debug\net5.0\CsAlkfejl.exe
+C:\Users\pmate\projects\VisualStudioProjects\CsAlkfejl\CsAlkfejl\bin\Debug\net5.0\CsAlkfejl.deps.json
+C:\Users\pmate\projects\VisualStudioProjects\CsAlkfejl\CsAlkfejl\bin\Debug\net5.0\CsAlkfejl.runtimeconfig.json
+C:\Users\pmate\projects\VisualStudioProjects\CsAlkfejl\CsAlkfejl\bin\Debug\net5.0\CsAlkfejl.runtimeconfig.dev.json
+C:\Users\pmate\projects\VisualStudioProjects\CsAlkfejl\CsAlkfejl\bin\Debug\net5.0\CsAlkfejl.dll
+C:\Users\pmate\projects\VisualStudioProjects\CsAlkfejl\CsAlkfejl\bin\Debug\net5.0\ref\CsAlkfejl.dll
+C:\Users\pmate\projects\VisualStudioProjects\CsAlkfejl\CsAlkfejl\bin\Debug\net5.0\CsAlkfejl.pdb
+C:\Users\pmate\projects\VisualStudioProjects\CsAlkfejl\CsAlkfejl\obj\Debug\net5.0\CsAlkfejl.dll
+C:\Users\pmate\projects\VisualStudioProjects\CsAlkfejl\CsAlkfejl\obj\Debug\net5.0\ref\CsAlkfejl.dll
+C:\Users\pmate\projects\VisualStudioProjects\CsAlkfejl\CsAlkfejl\obj\Debug\net5.0\CsAlkfejl.pdb
+C:\Users\pmate\projects\VisualStudioProjects\CsAlkfejl\CsAlkfejl\obj\Debug\net5.0\CsAlkfejl.genruntimeconfig.cache
