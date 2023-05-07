@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text.Json;
 using System.Linq;
+using System.Threading.Tasks;
 
 namespace CsAlkfejl
 {
     class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
             // Generikus kollekcio
             List<Torta> tortak = new List<Torta>();
@@ -52,7 +53,7 @@ namespace CsAlkfejl
                           select tortacska;
 
             foreach (var tortacska in results)
-                Console.Write(tortacska.Size + " ");
+                Console.Write(tortacska.Size + "\n");
 
             // fajlkezeles - iras
             var options = new JsonSerializerOptions
@@ -61,8 +62,11 @@ namespace CsAlkfejl
             };
             var jsonString = JsonSerializer.Serialize(nagytorta, options);
 
+            Console.WriteLine("Adj meg egy nevet a fajl mentesehez(pl. asd.txt): ");
+
             string name = Console.ReadLine() ?? "asd.txt";
             string path = Path.Combine(AppContext.BaseDirectory, name);
+
             using (FileStream file = File.OpenWrite(path))
             {
                 using (StreamWriter writer = new StreamWriter(file))
@@ -79,6 +83,9 @@ namespace CsAlkfejl
                     }
                 }
             }
+            // Async
+            var number = await Reader.ReadFile(path);
+            Console.WriteLine(number);
         }
     }
 }
